@@ -8,5 +8,5 @@ Accurate classification of drugs is essential in the medical field for various p
 
 - Model Evaluation: The performance of the Decision Tree Classifier model is evaluated using appropriate metrics such as accuracy, precision, recall, and F1 score. Cross-validation techniques may be employed to assess the model's generalization capabilities.
 
-- Visualization: The project utilizes data visualization techniques to provide insights into the drug classification results, decision boundaries of the decision tree model, or other visually informative representations.
+- Visualization: The project utilizes data visualization techniques to provide insights into the drug classification results, decision boundaries of the decision tree model, or other visually informative representations
 
